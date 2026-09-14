@@ -17,7 +17,7 @@ An immersive **Game of Thrones-themed interactive developer portfolio** engineer
 - 🧊 **Royal Mastery Bento Grid**: Sleek 3D cursor-tilting Bento Grid cards showcasing Python, Django REST Framework, React, FastAPI, Machine Learning, Databases, and Developer Toolchain.
 - ⚔️ **Projects & Great Works Vault**: Interactive tabbed project showcases including:
   - **Urban Flood Detection** (SIH Selected Project).
-  - **AI Power Grid Fault Detection** (AI-Nexus Selected, Hybrid CNN-LSTM & DWT Streamlit App).
+  - **AI Power Grid Fault Detection** (Hybrid CNN-LSTM & DWT Streamlit App).
   - **Forkly Chess WebApp** (Stockfish 18 AI Integration & Live Analysis).
   - **CineMate Multi-OTT AI** (TF-IDF & Cosine Similarity Movie Recommendation Engine).
   - **Sweet Delight Bakery System** (Node.js, Express, MongoDB & Real-Time Socket.IO).
