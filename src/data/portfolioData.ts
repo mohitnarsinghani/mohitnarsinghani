@@ -147,7 +147,7 @@ export const PROJECTS_DATA: Project[] = [
     desc: "Full-stack, real-time commercial bakery management system built with Node.js, Express, MongoDB & Socket.IO. Features live WebSocket inventory updates, role-based JWT authentication, interactive owner sales analytics dashboard, automated PDF invoice generation with payment QR codes, and custom glassmorphism UI.",
     highlightText: "A real-time commercial bakery engine coupling WebSocket inventory broadcasts, JWT role authorization, and server-side PDF invoice generation.",
     tech: ["Node.js", "Express", "MongoDB", "Socket.IO", "JWT", "PDFKit"],
-    img: "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=800&auto=format&fit=crop",
+    img: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=1000&auto=format&fit=crop",
     github: "https://github.com/mohitnarsinghani/Bakery-Management-System",
     live: "https://github.com/mohitnarsinghani/Bakery-Management-System"
   },
