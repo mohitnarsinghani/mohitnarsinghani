@@ -142,6 +142,17 @@ export const PROJECTS_DATA: Project[] = [
   },
   {
     id: 4,
+    title: "Sweet Delight Bakery Management System",
+    rank: "Valyrian Order",
+    desc: "Full-stack, real-time commercial bakery management system built with Node.js, Express, MongoDB & Socket.IO. Features live WebSocket inventory updates, role-based JWT authentication, interactive owner sales analytics dashboard, automated PDF invoice generation with payment QR codes, and custom glassmorphism UI.",
+    highlightText: "A real-time commercial bakery engine coupling WebSocket inventory broadcasts, JWT role authorization, and server-side PDF invoice generation.",
+    tech: ["Node.js", "Express", "MongoDB", "Socket.IO", "JWT", "PDFKit"],
+    img: "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=800&auto=format&fit=crop",
+    github: "https://github.com/mohitnarsinghani/Bakery-Management-System",
+    live: "https://github.com/mohitnarsinghani/Bakery-Management-System"
+  },
+  {
+    id: 5,
     title: "Restaurant Billing System",
     rank: "Maester Craft",
     desc: "A command-line Python application designed to generate, format, and calculate customer bills with itemized pricing and automated tax calculations.",
@@ -152,7 +163,7 @@ export const PROJECTS_DATA: Project[] = [
     live: "https://github.com/mohitnarsinghani/restaurant-billing-system"
   },
   {
-    id: 5,
+    id: 6,
     title: "Tweet Microblogging System",
     rank: "Maester Craft",
     desc: "Feature-rich Django microblogging web application supporting secure user authentication, timeline feed rendering, tweet CRUD operations, and customized user profiles.",
@@ -163,7 +174,7 @@ export const PROJECTS_DATA: Project[] = [
     live: "https://github.com/mohitnarsinghani/tweet-site"
   },
   {
-    id: 6,
+    id: 7,
     title: "Netflix Responsive Clone",
     rank: "Citadel Work",
     desc: "A responsive Netflix landing page clone developed using HTML5 and CSS3. Features responsive layouts with media queries, embedded video sections, Flexbox, CSS Grid, and interactive hover effects.",

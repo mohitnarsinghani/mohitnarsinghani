@@ -16,10 +16,11 @@ An immersive **Game of Thrones-themed interactive developer portfolio** engineer
 - 📜 **Decree Parchment Unrolling Scroll**: Smooth bidirectional scroll unrolling (`scaleX: 0` ➔ `scaleX: 1`) for the **Profile Decree & Conquest Chronicles** sections.
 - 🧊 **Royal Mastery Bento Grid**: Sleek 3D cursor-tilting Bento Grid cards showcasing Python, Django REST Framework, React, FastAPI, Machine Learning, Databases, and Developer Toolchain.
 - ⚔️ **Projects & Great Works Vault**: Interactive tabbed project showcases including:
+  - **Urban Flood Detection** (SIH Selected Project).
   - **Forkly Chess WebApp** (Stockfish 18 AI Integration & Live Analysis).
   - **CineMate Multi-OTT AI** (TF-IDF & Cosine Similarity Movie Recommendation Engine).
-  - **Restaurant Billing & Inventory System** (Django REST & MySQL Management).
-  - **Urban Flood Detection** (SIH Internal Selection Project).
+  - **Sweet Delight Bakery System** (Node.js, Express, MongoDB & Real-Time Socket.IO).
+  - **Restaurant Billing & Inventory System** (Python CLI & Financial Automation).
 - 📜 **House Records & Interactive Resume**: Full modal viewer for academic records, industrial experience at H&B Pvt. Ltd., and verified achievements.
 - 🦅 **Send a Raven Contact Portal**: Styled interactive dispatch form with authentic audio seal feedback.
 
