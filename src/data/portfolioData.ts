@@ -121,10 +121,10 @@ export const PROJECTS_DATA: Project[] = [
   {
     id: 2,
     title: "AI Power Grid Fault Detection System",
-    rank: "Valyrian Order",
+    rank: "Valyrian Order (AI Nexus)",
     desc: "Intelligent 3-phase power transmission line fault detection and classification platform built for AI-Nexus Hackathon. Combines hybrid CNN-LSTM Deep Learning, Discrete Wavelet Transform (DWT db4), Fast Fourier Transform (FFT) signal analytics, and an interactive Streamlit web dashboard with live signal waveform visualization and automated alert gauges.",
     highlightText: "An intelligent spatio-temporal deep learning network coupling DWT wavelet analytics and CNN-LSTM models for real-time 3-phase power grid fault detection.",
-    tech: ["Python", "TensorFlow", "CNN-LSTM", "DWT / FFT", "Streamlit", "AI / ML"],
+    tech: ["Python", "TensorFlow", "CNN-LSTM", "DWT / FFT", "Streamlit", "AI Nexus"],
     img: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?q=80&w=1000&auto=format&fit=crop",
     github: "https://github.com/mohitnarsinghani/Fault-Detection-System-in-Power-Lines-",
     live: "https://github.com/mohitnarsinghani/Fault-Detection-System-in-Power-Lines-"
